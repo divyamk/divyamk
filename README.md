@@ -1,6 +1,6 @@
 # Hi, I'm Divyam
 
-I'm a **Senior Software Engineer at Bell Flight. I work on application development, software integration, and testing. Outside work, I build web applications, backend services, developer tools, and connected-device projects.
+I'm a **Senior Software Engineer at Bell Flight**. I work on application development, software integration, and testing. Outside work, I build web applications, backend services, developer tools, and connected-device projects.
 
 I'm interested in software engineering opportunities across **backend, full-stack, and developer tools**.
 
