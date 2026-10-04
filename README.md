@@ -2,7 +2,7 @@
 
 **Senior Software Engineer · AI & Application Development**
 
-I build applications, backend services, and automation tools. My project work includes machine learning and data-driven applications, supported by professional experience in software development, integration, and testing.
+I build applications, backend microservices, and automation tools. My project work includes computer vision, edge analytics, machine learning and data-driven applications, supported by professional experience in software development, integration, and testing.
 
 I'm pursuing an **M.S. in Computer Science at Georgia Tech, specializing in Artificial Intelligence**, and hold degrees in Computer Science and Cognitive Science.
 
