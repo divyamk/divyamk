@@ -1,24 +1,22 @@
 # Hi, I'm Divyam
 
-I'm a **Senior Software Engineer at Bell Flight**. I work on application development, software integration, and testing. Outside work, I build web applications, backend services, developer tools, and connected-device projects.
+**Senior Software Engineer · AI & Application Development**
 
-I'm interested in software engineering opportunities across **backend, full-stack, and developer tools**.
+I build applications, backend services, and automation tools. My project work includes machine learning and data-driven applications, supported by professional experience in software development, integration, and testing.
+
+I'm pursuing an **M.S. in Computer Science at Georgia Tech, specializing in Artificial Intelligence**, and hold degrees in Computer Science and Cognitive Science.
 
 ## Selected work
 
-| Project | What I built | Technologies |
-| --- | --- | --- |
-| [LiveLife](https://github.com/divyamk/engineering-portfolio/blob/main/projects/livelife.md) | A publishing application with a browser editor, drafts, authentication, comments, and RSS | TypeScript, Next.js, React, PostgreSQL |
-| [OmniNode](https://github.com/divyamk/engineering-portfolio/blob/main/projects/omninode.md) | A telemetry prototype connecting synthetic data, anomaly detection, and a persistence API | C++, Python, Java, Spring Boot, MQTT, MySQL |
-| [KlipperViewer](https://github.com/divyamk/engineering-portfolio/blob/main/projects/klipperviewer.md) | A live printer dashboard with streaming state and G-code visualization | Svelte, JavaScript, WebSocket, Canvas |
+- **[OmniNode](https://github.com/divyamk/engineering-portfolio/blob/main/projects/omninode.md)** — machine-learning anomaly detection with a streaming data pipeline and backend API.
+- **[ShopIQ](https://github.com/arugyani/shopIQ)** — a senior team project exploring LLM-assisted product research.
+- **[Vision UnLocked](https://github.com/arugyani/vision-unlocked)** — a team project exploring computer-vision-based communication.
+- **[LiveLife](https://github.com/divyamk/engineering-portfolio/blob/main/projects/livelife.md)** — a full-stack publishing application.
 
-These links are engineering writeups; the source for these projects is currently private. My public repositories also include team projects and earlier learning work.
+**Technologies:** Python, JavaScript/TypeScript, Java, C++, React, SQL, and Linux.
 
-## Background
+Interested in **AI engineering and application engineering** opportunities.
 
-- **Professional work:** application logic, configuration and test development for 12 applications, partner-software integration, and debugging across software and network boundaries.
-- **Education:** B.S. degrees in Computer Science and Cognitive Science from UT Dallas; pursuing an M.S. in Computer Science at Georgia Tech, specializing in Artificial Intelligence, expected Fall 2028.
-- **HackDFW 2022:** part of the [Curtainfy](https://devpost.com/software/curtainfy) team that won the Grand Prize and Google Sponsor Challenge. My contribution focused on the React Native frontend and API integration.
-- **At home:** Linux, Proxmox, Docker, networking, and device integrations.
+[LinkedIn](https://www.linkedin.com/in/divyamkhatri/) · [Project summaries](https://github.com/divyamk/engineering-portfolio)
 
-[LinkedIn](https://www.linkedin.com/in/divyamkhatri/) · [Engineering portfolio](https://github.com/divyamk/engineering-portfolio)
+*Project summaries describe private implementations; linked team repositories represent collaborative work.*
