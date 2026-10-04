@@ -13,7 +13,7 @@ I'm pursuing an **M.S. in Computer Science at Georgia Tech, specializing in Arti
 - **[Vision UnLocked](https://github.com/arugyani/vision-unlocked)** — a team project exploring computer-vision-based communication.
 - **[LiveLife](https://github.com/divyamk/engineering-portfolio/blob/main/projects/livelife.md)** — a full-stack publishing application.
 
-**Technologies:** Python, JavaScript/TypeScript, Java, C++, React, SQL, and Linux.
+**Technologies:** Python, JavaScript/TypeScript, Java, React, SQL, and Linux.
 
 Interested in **AI engineering and application engineering** opportunities.
 
